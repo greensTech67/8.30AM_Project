@@ -14,6 +14,8 @@ public static void main(String[] args) {
 	
 	n.empName();
 	
+	System.out.println("selvam updated");
+	
 	
 	
 	
